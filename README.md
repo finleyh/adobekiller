@@ -1,2 +1,2 @@
-# pdf_analysis_tool
-A Python implementation for Fraud PDF Analysis
+# AdobeKiller
+A Python PDF analysis tool for fraud analysis
