@@ -1,6 +1,7 @@
 import re
 import zlib
 import os
+import yara
 
 
 
